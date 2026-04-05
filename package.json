@@ -1,5 +1,12 @@
 {
-  "name": "Armando González - Senior BIM Coordinator CV",
+  "name": "armando-cv",
   "description": "Professional CV for Armando Antonio González Tapiador, Senior BIM / MEP Coordinator.",
-  "requestFramePermissions": []
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "vite": "latest"
+  }
 }
